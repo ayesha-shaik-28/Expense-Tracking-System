@@ -55,7 +55,7 @@ Project_expense_tracking/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ayesha-shaik-28/project_expense_tracker.git
+git clone https://github.com/yourusername/project_expense_tracker.git
 cd project_expense_tracker
 ```
 
